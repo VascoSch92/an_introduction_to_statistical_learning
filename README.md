@@ -1,2 +1,3 @@
-# an_introduction_to_statistical_learning
+# An Introduction to Statistical Learning
+
 Solutions in Python of the book "An Introduction to Statistical Learning"
