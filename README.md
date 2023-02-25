@@ -1,7 +1,7 @@
 # An Introduction to Statistical Learning
 
 Project start date: 25 FEB 2023 \
-Project end date: working in progress :-)
+Project end date: work in progress :-)
 
 In this repository are the solutions to the exercises of the second edition of the book "An Introduction to Statistical 
 Learning". 
