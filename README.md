@@ -20,5 +20,7 @@ Some useful link:
 Full reference of the book: James Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani,  *An Introduction to 
 Statistical Learning*, 2st Edition,  Springer Texts in Statistics,  New York (NY), Springer, 2021.
 
+If you find any errors or have any suggestions please do not hesitate to contact me. 
+
 Enjoy!
 VS
