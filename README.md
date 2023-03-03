@@ -23,4 +23,5 @@ Statistical Learning*, 2st Edition,  Springer Texts in Statistics,  New York (NY
 If you find any errors or have any suggestions please do not hesitate to contact me. 
 
 Enjoy!
+
 VS
